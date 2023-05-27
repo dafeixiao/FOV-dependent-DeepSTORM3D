@@ -1,0 +1,1 @@
+a folder which saves trained network and a dictionary data for this network training
