@@ -9,10 +9,10 @@ add field dependence to enable large-FOV imaging
 
 4. We resort to ThunderSTORM, a plug-in of ImageJ, to demonstrate of localization results. 
 
-3D super-resolved image of mitochondria (depth range: 0-4 um):
+3D super-resolved image of mitochondria with high fidelity (depth range: 0-4 um):
 
 ![](./mitochondria_full.gif )
 
-3D super-resolved image of microtubules (depth range: 0-4 um):
+3D super-resolved image of microtubules with high fidelity (depth range: 0-4 um):
 
 ![](./microtubules1.gif )
