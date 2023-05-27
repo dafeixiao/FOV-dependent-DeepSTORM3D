@@ -7,6 +7,8 @@ Then "training_fd1.py" can be run to train a netwrok, which usually takes days o
 
 Finally, given image folder and the trained network, one can run "inference.py" implement localization frame by frame. The localization result is saved in a .csv file in the given image folder.
 
-We resort to ThunderSTORM, a plug-in of ImageJ, to demonstrate of localization results. One reconstructed super-resolved mitochondria image is shown here.
+We resort to ThunderSTORM, a plug-in of ImageJ, to demonstrate of localization results. 
 
-![](./locsoverlay.gif "This movie shows 70 representative experimental frames followed by an overlay of their re-generated images using the recovered 3D positions by the CNN (Fig. 3b main text). Note that the experimental frames are shown before and after the re-generated images for ease of visualization. Scale bar is 5 microns.")
+3D super-resolved image of mitochondria network:
+
+![](./mitochondria_full.gif "This movie shows 70 representative experimental frames followed by an overlay of their re-generated images using the recovered 3D positions by the CNN (Fig. 3b main text). Note that the experimental frames are shown before and after the re-generated images for ease of visualization. Scale bar is 5 microns.")
