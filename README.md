@@ -11,4 +11,4 @@ We resort to ThunderSTORM, a plug-in of ImageJ, to demonstrate of localization r
 
 3D super-resolved image of mitochondria network:
 
-![](./mitochondria_full.gif "This movie shows 70 representative experimental frames followed by an overlay of their re-generated images using the recovered 3D positions by the CNN (Fig. 3b main text). Note that the experimental frames are shown before and after the re-generated images for ease of visualization. Scale bar is 5 microns.")
+![](./mitochondria_full.gif )
