@@ -16,3 +16,5 @@ add field dependence to enable large-FOV imaging
 3D super-resolved image of microtubules with high fidelity (depth range: 0-4 um):
 
 ![](./microtubules1.gif )
+
+publication: Xiao, Dafei, et al. "Large-FOV 3D localization microscopy by spatially variant point spread function generation." Science Advances 10.10 (2024): eadj3656.
