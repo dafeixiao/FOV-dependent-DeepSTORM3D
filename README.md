@@ -17,4 +17,4 @@ add field dependence to enable large-FOV imaging
 
 ![](./microtubules1.gif )
 
-publication: Xiao, Dafei, et al. "Large-FOV 3D localization microscopy by spatially variant point spread function generation." Science Advances 10.10 (2024): eadj3656.
+Publication: Xiao, Dafei, et al. "Large-FOV 3D localization microscopy by spatially variant point spread function generation." Science Advances 10.10 (2024): eadj3656.
